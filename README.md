@@ -1,74 +1,27 @@
-# ![Elywing](http://image.noelshack.com/fichiers/2016/43/1477490625-elybanner.png)
+T-STAR
+===================
 
+![alt tag](https://www.paypalobjects.com/en_US/i/scr/sm_333_oo.gif) 一個全新的MinecraftPE & Windows 10 Edition Beta 的開服核心 ![alt tag](https://www.paypalobjects.com/en_US/i/scr/sm_333_oo.gif)
 
-	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU Lesser General Public License as published by
-	the Free Software Foundation, either version 3 of the License, or
-	(at your option) any later version.
+[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=itxtechnologiesllc%40gmail%2ecom&lc=GB&item_name=Genisys&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
 
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	GNU Lesser General Public License for more details.
+介紹
+-------------
+T-STAR 是一個 **[PocketMine-MP](https://github.com/PocketMine/PocketMine-MP)** 的分支核心 多數代碼由 **PocketMine Team** & **iTX Technologies** 撰寫.<br>
+由Genisys撰寫的新功能:
 
-	You should have received a copy of the GNU Lesser General Public License
-	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+* Extended API for plugins (GeniAPI)
+* 支援 Synapse Client
+* 強制 Xbox Live 登入
+* 支援 Windows 10 Edition Beta
 
+幫助 & 支援
+-------------
+目前只能使用開源方式開服,請將所有打案下載後解壓,使用start.cmd(Windows)或start.sh(Linux)開服
 
-__Elywing is a free, open-source software that creates Minecraft: Pocket Edition servers and allows extending its functionalities. Most of the original code was written by the PocketMine Team.__
+請留下src與php環境
 
-### Thanks to PocketMine-MP and Genisys.
-
-### [PocketMine-MP](http://github.com/iTXTech/Genisys/)
-
-### [Genisys](http://github.com/pmmp/PocketMine-MP/)
-
-
-### Elywing, a fork of PocketMine-MP, modified by
-
-### [Twitter @SuperMaXAleX_](https://twitter.com/SuperMaXAleX_/)
-
-### [Twitter @ReskillDEV](https://twitter.com/ReskillDEV/)
-
-### [Twitter @Misteboss_mcpe](https://twitter.com/Misteboss_mcpe/)
-
-### [Twitter @Pab45O](https://twitter.com/Pab45O/)
-
-
-
-### [Homepage](http://www.pocketmine.net/)
-
-### [Forums](http://forums.pocketmine.net/)
-
-### [Documentation](http://pocketmine-mp.readthedocs.org/)
-
-### [Plugin Repository](http://plugins.pocketmine.net/)
-
-
-<!--## [FAQ: Frequently Asked Questions](https://github.com/PocketMine/PocketMine-MP/wiki/Frequently-Asked-Questions)-->
-
-### API Documentation
- * [Official Doxygen-generated documentation](http://docs.pocketmine.net/)
- * [Latest Doxygen generated from development](http://jenkins.pocketmine.net/job/PocketMine-MP-doc/doxygen/)
-
-### [Twitter @PocketMine](https://twitter.com/PocketMine)
-
-### IRC Chat #pocketmine (or #mcpedevs) @ irc.freenode.net
-[#pocketmine + #mcpedevs channel WebIRC](http://webchat.freenode.net/?channels=pocketmine,mcpedevs)
-
-### Want to contribute?
-* Check the [Contributing Guidelines](CONTRIBUTING.md)
-
-
-## Third-party Libraries/Protocols Used
-* __[PHP Sockets](http://php.net/manual/en/book.sockets.php)__
-* __[PHP mbstring](http://php.net/manual/en/book.mbstring.php)__
-* __[PHP SQLite3](http://php.net/manual/en/book.sqlite3.php)__
-* __[PHP BCMath](http://php.net/manual/en/book.bc.php)__
-* __[PHP pthreads](http://pthreads.org/)__ by _[krakjoe](https://github.com/krakjoe)_: Threading for PHP - Share Nothing, Do Everything.
-* __[PHP YAML](https://code.google.com/p/php-yaml/)__ by _Bryan Davis_: The Yaml PHP Extension provides a wrapper to the LibYAML library.
-* __[LibYAML](http://pyyaml.org/wiki/LibYAML)__ by _Kirill Simonov_: A YAML 1.1 parser and emitter written in C.
-* __[cURL](http://curl.haxx.se/)__: cURL is a command line tool for transferring data with URL syntax
-* __[Zlib](http://www.zlib.net/)__: A Massively Spiffy Yet Delicately Unobtrusive Compression Library
-* __[Source RCON Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol)__
-* __[UT3 Query Protocol](http://wiki.unrealadmin.org/UT3_query_protocol)__
+取得T-STAR
+-------------
+* 下載連結  製作中...
+* Windows安裝檔 製作中...
