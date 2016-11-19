@@ -8,10 +8,9 @@ T-STAR
 介紹
 -------------
 T-STAR 是一個 **[PocketMine-MP](https://github.com/PocketMine/PocketMine-MP)** 的分支核心 多數代碼由 **PocketMine Team** & **iTX Technologies** 撰寫.<br>
-由Genisys撰寫的新功能:
+由T-STAR撰寫的新功能:
 
-* Extended API for plugins (GeniAPI)
-* 支援 Synapse Client
+* Extended API for plugins (TSTARAPI)
 * 強制 Xbox Live 登入
 * 支援 Windows 10 Edition Beta
 
