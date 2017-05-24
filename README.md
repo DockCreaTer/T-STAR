@@ -3,7 +3,7 @@ T-STAR
 
 ![alt tag](https://www.paypalobjects.com/en_US/i/scr/sm_333_oo.gif) 一個全新的MinecraftPE & Windows 10 Edition Beta 的開服核心 ![alt tag](https://www.paypalobjects.com/en_US/i/scr/sm_333_oo.gif)
 
-[![PayPal donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=itxtechnologiesllc%40gmail%2ecom&lc=GB&item_name=Genisys&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
+我們已經移到 **[GenisysPro](https://github.com/GenisysPro/GenisysPro)** 需要新版本之核心請前往:D
 
 介紹
 -------------
